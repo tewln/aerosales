@@ -1,0 +1,22 @@
+{
+  "name": "aerosales-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Aerosales - airline ticket booking system",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.3.0",
+    "axios": "^1.4.0",
+    "pinia": "^2.1.6",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.4",
+    "vite": "^6.3.5"
+  }
+}
